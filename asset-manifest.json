@@ -1,0 +1,13 @@
+{
+  "main.css": "/periodic-table/static/css/main.3d089dbb.chunk.css",
+  "main.js": "/periodic-table/static/js/main.5a4f1beb.chunk.js",
+  "main.js.map": "/periodic-table/static/js/main.5a4f1beb.chunk.js.map",
+  "static/js/1.5bc7f1d0.chunk.js": "/periodic-table/static/js/1.5bc7f1d0.chunk.js",
+  "static/js/1.5bc7f1d0.chunk.js.map": "/periodic-table/static/js/1.5bc7f1d0.chunk.js.map",
+  "runtime~main.js": "/periodic-table/static/js/runtime~main.8e10912f.js",
+  "runtime~main.js.map": "/periodic-table/static/js/runtime~main.8e10912f.js.map",
+  "static/css/main.3d089dbb.chunk.css.map": "/periodic-table/static/css/main.3d089dbb.chunk.css.map",
+  "index.html": "/periodic-table/index.html",
+  "precache-manifest.e69f027ffcf02544cd8a93639326f664.js": "/periodic-table/precache-manifest.e69f027ffcf02544cd8a93639326f664.js",
+  "service-worker.js": "/periodic-table/service-worker.js"
+}
